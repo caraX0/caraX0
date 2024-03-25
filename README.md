@@ -1,15 +1,3 @@
-
-<br/>
-I am a highly professional Java Developer with 8 years of experience and deep knowledge of Java-Kotlin(Spring Boot,Spring Cloud), Golang(Gin,Echo), cloud(Aws,Digitalocean), GraphQL, SQL, NoSQL, Kafka, Redis, Elasticsearch, frontend technologies such as React, Next.js, blockchain technologies such as Hyperledger Fabric, Hyperledger explorer, Solidity, Ethers.js and other programming languages,   technologies, and platforms.
-<br/>
-No matter what I’m working on, I’m very invested.
-<br/>
-<br/>
- 🌱 While I was working in Nine Health Global, my primary focus was on developing a CDSS bot named Diagbot. Diagbot aids medical doctors and nurses in making informed decisions about clinical processes using both knowledge-based CDSS and AI CDSS. The bot provides recommendations for diagnoses and medications based on a patient's specific condition, enabling clinical team members to make well-informed decisions. Diagbot supports diagnosis for 5000 diseases, processes clinical records in real time and supports hundreds of thousands of clinical treatment guides. Its knowledge is derived from learning from approximately 500 million clinical records.
-<br/>
-<br/>
-<br/>
-
 > 🚀 Vast experience in :
 ---------------------------
 - ✅ Spring Boot, Spring Cloud & Java, Kotlin
@@ -43,11 +31,13 @@ No matter what I’m working on, I’m very invested.
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> </a>
 <br/>
 <br/>
-
-> ⚡  Core skills:
----------------------------
-- ➡️ Self-motivated, Proactive, and team player.
-- ➡️ Love to help, strong social skills, great problem solving skills.
-- ➡️ Obstacle Remover
-- ➡️ Fullstack developer from requirement to SDLC, experienced in all software development lifecycle.
-
+<br/>
+I am a highly professional Java Developer with 8 years of experience and deep knowledge of Java-Kotlin(Spring Boot,Spring Cloud), Golang(Gin,Echo), cloud(Aws,Digitalocean), GraphQL, SQL, NoSQL, Kafka, Redis, Elasticsearch, frontend technologies such as React, Next.js, blockchain technologies such as Hyperledger Fabric, Hyperledger explorer, Solidity, Ethers.js and other programming languages,   technologies, and platforms.
+<br/>
+No matter what I’m working on, I’m very invested.
+<br/>
+<br/>
+ 🌱 While I was working in Nine Health Global, my primary focus was on developing a CDSS bot named Diagbot. Diagbot aids medical doctors and nurses in making informed decisions about clinical processes using both knowledge-based CDSS and AI CDSS. The bot provides recommendations for diagnoses and medications based on a patient's specific condition, enabling clinical team members to make well-informed decisions. Diagbot supports diagnosis for 5000 diseases, processes clinical records in real time and supports hundreds of thousands of clinical treatment guides. Its knowledge is derived from learning from approximately 500 million clinical records.
+<br/>
+<br/>
+<br/>
