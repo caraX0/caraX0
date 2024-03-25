@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#67cc90">Hi there 👋🏻</h1>
+
 <br/>
 I am a highly professional Java Developer with 8 years of experience and deep knowledge of Java-Kotlin(Spring Boot,Spring Cloud), Golang(Gin,Echo), cloud(Aws,Digitalocean), GraphQL, SQL, NoSQL, Kafka, Redis, Elasticsearch, frontend technologies such as React, Next.js, blockchain technologies such as Hyperledger Fabric, Hyperledger explorer, Solidity, Ethers.js and other programming languages,   technologies, and platforms.
 <br/>
@@ -51,23 +51,3 @@ No matter what I’m working on, I’m very invested.
 - ➡️ Obstacle Remover
 - ➡️ Fullstack developer from requirement to SDLC, experienced in all software development lifecycle.
 
-> I DO:
----------------------------
-- ✔️ Deliver work on time.
-- ✔️ Guarantee the quality.
-- ✔️ Enjoy challenges.
-- ✔️ Responsive.
-<br/>
-<br/>
-
-## My Values
-🧠 Thoughtful & Inclusive Development <br/>
-🖤 Authentic Expression <br/>
-💡 Mindset of Learning & Curiosity <br/>
-🙌 Teamwork & Communication
-
-## Hobbies
-☕️ Espresso Enthusiast <br/>
-☁️ Cozy Gamer </br>
-🧗🏼 Rock Climber </br>
-🧘🏼‍♀️ Yoga lover
