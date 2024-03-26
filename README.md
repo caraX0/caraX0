@@ -4,7 +4,7 @@ Experienced in Software development for 8+ years. Currently working as a Java, G
 
 > 🚀 Vast experience in :
 ---------------------------
-- ✅ Spring Boot, Spring Cloud & Java, Kotlin
+- ✅ Spring Boot, Spring Cloud & Java, Kotlin, Go
 - ✅ Azure, AWS, Digitalocean
 - ✅ React, Angular, Vue, Laravel, CSS, HTML, Tailwindcss, Angular Material
 - ✅ Django, Flask, Python, OpenCV, Tensorflow
@@ -36,7 +36,7 @@ Experienced in Software development for 8+ years. Currently working as a Java, G
 <br/>
 <br/>
 <br/>
-I am a highly professional Java Developer with 8 years of experience and deep knowledge of Java-Kotlin(Spring Boot,Spring Cloud), Golang(Gin,Echo), cloud(Aws,Digitalocean), GraphQL, SQL, NoSQL, Kafka, Redis, Elasticsearch, frontend technologies such as React, Next.js, blockchain technologies such as Hyperledger Fabric, Hyperledger explorer, Solidity, Ethers.js and other programming languages,   technologies, and platforms.
+I am a highly professional Java Backend Developer with 8 years of experience and deep knowledge of Java-Kotlin(Spring Boot,Spring Cloud), Golang(Gin,Echo), cloud(Aws,Digitalocean), GraphQL, SQL, NoSQL, Kafka, Redis, Elasticsearch, frontend technologies such as React, Next.js, blockchain technologies such as Hyperledger Fabric, Hyperledger explorer, Solidity, Ethers.js and other programming languages,   technologies, and platforms.
 <br/>
 No matter what I’m working on, I’m very invested.
 <br/>
