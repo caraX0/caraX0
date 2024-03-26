@@ -1,3 +1,7 @@
+
+
+Experienced in Software development for 8+ years. Currently working as a Java, Go Backend developer.<br/>
+
 > 🚀 Vast experience in :
 ---------------------------
 - ✅ Spring Boot, Spring Cloud & Java, Kotlin
