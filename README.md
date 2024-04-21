@@ -9,7 +9,7 @@ Experienced in Software development for 8+ years. Currently working as a Java, G
 - ✅ Python, OpenCV, Tensorflow
 - ✅ Oracle SQL, MySQL, PostgreSQL, MongoDB, ELK stack, Neo4j, H2, Redis
 - ✅ Azure, AWS, Digitalocean
-- ✅ Agile Software Development , Scrum ,Design Patterns , AOP , Microservices ,REST , gRpc, Test-driven Development(TDD), Figma
+- ✅ Agile Development, Scrum, Design Patterns, AOP, Microservices, REST, gRpc, CI/CD
 
 <h4 align="left">Languages and Tools:</h3>
 <p align="left">&nbsp;
