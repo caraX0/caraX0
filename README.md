@@ -4,16 +4,13 @@ Experienced in Software development for 8+ years. Currently working as a Java, G
 
 > 🚀 Vast experience in :
 ---------------------------
-- ✅ Spring Boot, Spring Cloud & Java, Kotlin, Go
-- ✅ Azure, AWS, Digitalocean
-- ✅ React, Angular, Vue, Laravel, CSS, HTML, Tailwindcss, Angular Material
-- ✅ Django, Flask, Python, OpenCV, Tensorflow
+- ✅ Spring Boot, Spring Cloud & Java, Kotlin
+- ✅ React, Angular, Laravel, CSS, HTML, Tailwindcss
+- ✅ Python, OpenCV, Tensorflow
 - ✅ Oracle SQL, MySQL, PostgreSQL, MongoDB, ELK stack, Neo4j, H2, Redis
-- ✅ IntelliJ IDEA, Apache Maven, Gradle, Git, RabbitMQ
-- ✅ Blockchain technologies
-- ✅ Solidity, Golang & Web3, Etherjs, Metamask integrations
+- ✅ Azure, AWS, Digitalocean
 - ✅ Agile Software Development , Scrum ,Design Patterns , AOP , Microservices ,REST , gRpc, Test-driven Development(TDD), Figma
-- ✅ Java EE , Docker , AWS, Kubernetes ,MacOS , Linux , Oracle
+
 <h4 align="left">Languages and Tools:</h3>
 <p align="left">&nbsp;
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
