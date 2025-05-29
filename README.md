@@ -4,8 +4,8 @@ Experienced in Software development for 8+ years. Currently working as a Java, G
 
 > 🚀 Vast experience in :
 ---------------------------
-- ✅ Spring Boot, Spring Cloud & Java, Kotlin
 - ✅ React, Angular, Laravel, CSS, HTML, Tailwindcss
+- ✅ Spring Boot, Spring Cloud & Java, Kotlin
 - ✅ Python, OpenCV, Tensorflow
 - ✅ Oracle SQL, MySQL, PostgreSQL, MongoDB, ELK stack, Neo4j, H2, Redis
 - ✅ Azure, AWS, Digitalocean
