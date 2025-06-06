@@ -4,7 +4,7 @@ Experienced in Software development for 8+ years. Currently working as a Java, G
 
 > 🚀 Vast experience in :
 ---------------------------
-- ✅ React, Angular, Laravel, CSS, HTML, Tailwindcss
+- ✅ JavaScript, TypeScript, React, Next.js, Vue.js, Angular, Laravel, CSS, HTML, TailwindCSS
 - ✅ Spring Boot, Spring Cloud & Java, Kotlin
 - ✅ Python, OpenCV, Tensorflow
 - ✅ Oracle SQL, MySQL, PostgreSQL, MongoDB, ELK stack, Neo4j, H2, Redis
