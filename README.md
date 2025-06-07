@@ -33,12 +33,3 @@ Experienced in Software development for 8+ years. Currently working as a Java, G
 <br/>
 <br/>
 <br/>
-I am a highly professional Java Backend Developer with 8 years of experience and deep knowledge of Java-Kotlin(Spring Boot,Spring Cloud), Golang(Gin,Echo), cloud(Aws,Digitalocean), GraphQL, SQL, NoSQL, Kafka, Redis, Elasticsearch, frontend technologies such as React, Next.js, blockchain technologies such as Hyperledger Fabric, Hyperledger explorer, Solidity, Ethers.js and other programming languages,   technologies, and platforms.
-<br/>
-No matter what I’m working on, I’m very invested.
-<br/>
-<br/>
- 🌱 While I was working in Nine Health Global, my primary focus was on developing a CDSS bot named Diagbot. Diagbot aids medical doctors and nurses in making informed decisions about clinical processes using both knowledge-based CDSS and AI CDSS. The bot provides recommendations for diagnoses and medications based on a patient's specific condition, enabling clinical team members to make well-informed decisions. Diagbot supports diagnosis for 5000 diseases, processes clinical records in real time and supports hundreds of thousands of clinical treatment guides. Its knowledge is derived from learning from approximately 500 million clinical records.
-<br/>
-<br/>
-<br/>
