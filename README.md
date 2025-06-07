@@ -1,10 +1,9 @@
 
 
-Experienced in Software development for 8+ years. Currently working as a Java, Go Backend developer.<br/>
-
+Experienced in Software development for 8+ years.
 > 🚀 Vast experience in :
 ---------------------------
-- ✅ JavaScript, TypeScript, React, Next.js, Vue.js, Angular, Laravel, CSS, HTML, TailwindCSS
+- ✅ JavaScript, TypeScript, React, Next.js, Vue.js, Angular, Laravel, Go, Rust, C #, .NET, Dart
 - ✅ Spring Boot, Spring Cloud & Java, Kotlin
 - ✅ Python, OpenCV, Tensorflow
 - ✅ Oracle SQL, MySQL, PostgreSQL, MongoDB, ELK stack, Neo4j, H2, Redis
